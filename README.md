@@ -1,6 +1,8 @@
 # bayesglm
 Bayesian generalized linear models Use bayesglm With (In) R Software
 
+https://www.youtube.com/watch?v=ImjyAVtBLBQ
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
